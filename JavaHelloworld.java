@@ -1,4 +1,4 @@
-public class JavaHelloWorld
+public class JavaHelloworld
 {
 	public static void main (String []args){
 
